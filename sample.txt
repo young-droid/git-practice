@@ -2,3 +2,4 @@ Hello Git!!!
 Hello GitHub! - from devB
 hello! - from A
 and B is trying to make conflict
+A is writing first 
