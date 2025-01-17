@@ -1,3 +1,4 @@
 Hello Git!!! 
 Hello GitHub! - from devB
 hello! - from A
+A is writing first 
